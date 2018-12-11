@@ -1,0 +1,610 @@
+Attribute:
+Attribute_Label: DP0010001
+Attribute_Definition: Total Population
+Attribute:
+Attribute_Label: DP0010002
+Attribute_Definition: Total Population: Under 5 years
+Attribute:
+Attribute_Label: DP0010003
+Attribute_Definition: Total Population: 5 to 9 years
+Attribute:
+Attribute_Label: DP0010004
+Attribute_Definition: Total Population: 10 to 14 years
+Attribute:
+Attribute_Label: DP0010005
+Attribute_Definition: Total Population: 15 to 19 years
+Attribute:
+Attribute_Label: DP0010006
+Attribute_Definition: Total Population: 20 to 24 years
+Attribute:
+Attribute_Label: DP0010007
+Attribute_Definition: Total Population: 25 to 29 years
+Attribute:
+Attribute_Label: DP0010008
+Attribute_Definition: Total Population: 30 to 34 years
+Attribute:
+Attribute_Label: DP0010009
+Attribute_Definition: Total Population: 35 to 39 years
+Attribute:
+Attribute_Label: DP0010010
+Attribute_Definition: Total Population: 40 to 44 years
+Attribute:
+Attribute_Label: DP0010011
+Attribute_Definition: Total Population: 45 to 49 years
+Attribute:
+Attribute_Label: DP0010012
+Attribute_Definition: Total Population: 50 to 54 years
+Attribute:
+Attribute_Label: DP0010013
+Attribute_Definition: Total Population: 55 to 59 years
+Attribute:
+Attribute_Label: DP0010014
+Attribute_Definition: Total Population: 60 to 64 years
+Attribute:
+Attribute_Label: DP0010015
+Attribute_Definition: Total Population: 65 to 69 years
+Attribute:
+Attribute_Label: DP0010016
+Attribute_Definition: Total Population: 70 to 74 years
+Attribute:
+Attribute_Label: DP0010017
+Attribute_Definition: Total Population: 75 to 79 years
+Attribute:
+Attribute_Label: DP0010018
+Attribute_Definition: Total Population: 80 to 84 years
+Attribute:
+Attribute_Label: DP0010019
+Attribute_Definition: Total Population: 85 years and over
+Attribute:
+Attribute_Label: DP0010020
+Attribute_Definition: Total Population: Male
+Attribute:
+Attribute_Label: DP0010021
+Attribute_Definition: Total Population: Male: Under 5 years
+Attribute:
+Attribute_Label: DP0010022
+Attribute_Definition: Total Population: Male: 5 to 9 years
+Attribute:
+Attribute_Label: DP0010023
+Attribute_Definition: Total Population: Male: 10 to 14 years
+Attribute:
+Attribute_Label: DP0010024
+Attribute_Definition: Total Population: Male: 15 to 19 years
+Attribute:
+Attribute_Label: DP0010025
+Attribute_Definition: Total Population: Male: 20 to 24 years
+Attribute:
+Attribute_Label: DP0010026
+Attribute_Definition: Total Population: Male: 25 to 29 years
+Attribute:
+Attribute_Label: DP0010027
+Attribute_Definition: Total Population: Male: 30 to 34 years
+Attribute:
+Attribute_Label: DP0010028
+Attribute_Definition: Total Population: Male: 35 to 39 years
+Attribute:
+Attribute_Label: DP0010029
+Attribute_Definition: Total Population: Male: 40 to 44 years
+Attribute:
+Attribute_Label: DP0010030
+Attribute_Definition: Total Population: Male: 45 to 49 years
+Attribute:
+Attribute_Label: DP0010031
+Attribute_Definition: Total Population: Male: 50 to 54 years
+Attribute:
+Attribute_Label: DP0010032
+Attribute_Definition: Total Population: Male: 55 to 59 years
+Attribute:
+Attribute_Label: DP0010033
+Attribute_Definition: Total Population: Male: 60 to 64 years
+Attribute:
+Attribute_Label: DP0010034
+Attribute_Definition: Total Population: Male: 65 to 69 years
+Attribute:
+Attribute_Label: DP0010035
+Attribute_Definition: Total Population: Male: 70 to 74 years
+Attribute:
+Attribute_Label: DP0010036
+Attribute_Definition: Total Population: Male: 75 to 79 years
+Attribute:
+Attribute_Label: DP0010037
+Attribute_Definition: Total Population: Male: 80 to 84 years
+Attribute:
+Attribute_Label: DP0010038
+Attribute_Definition: Total Population: Male: 85 years and over
+Attribute:
+Attribute_Label: DP0010039
+Attribute_Definition: Total Population: Female
+Attribute:
+Attribute_Label: DP0010040
+Attribute_Definition: Total Population: Female: Under 5 years
+Attribute:
+Attribute_Label: DP0010041
+Attribute_Definition: Total Population: Female: 5 to 9 years
+Attribute:
+Attribute_Label: DP0010042
+Attribute_Definition: Total Population: Female: 10 to 14 years
+Attribute:
+Attribute_Label: DP0010043
+Attribute_Definition: Total Population: Female: 15 to 19 years
+Attribute:
+Attribute_Label: DP0010044
+Attribute_Definition: Total Population: Female: 20 to 24 years
+Attribute:
+Attribute_Label: DP0010045
+Attribute_Definition: Total Population: Female: 25 to 29 years
+Attribute:
+Attribute_Label: DP0010046
+Attribute_Definition: Total Population: Female: 30 to 34 years
+Attribute:
+Attribute_Label: DP0010047
+Attribute_Definition: Total Population: Female: 35 to 39 years
+Attribute:
+Attribute_Label: DP0010048
+Attribute_Definition: Total Population: Female: 40 to 44 years
+Attribute:
+Attribute_Label: DP0010049
+Attribute_Definition: Total Population: Female: 45 to 49 years
+Attribute:
+Attribute_Label: DP0010050
+Attribute_Definition: Total Population: Female: 50 to 54 years
+Attribute:
+Attribute_Label: DP0010051
+Attribute_Definition: Total Population: Female: 55 to 59 years
+Attribute:
+Attribute_Label: DP0010052
+Attribute_Definition: Total Population: Female: 60 to 64 years
+Attribute:
+Attribute_Label: DP0010053
+Attribute_Definition: Total Population: Female: 65 to 69 years
+Attribute:
+Attribute_Label: DP0010054
+Attribute_Definition: Total Population: Female: 70 to 74 years
+Attribute:
+Attribute_Label: DP0010055
+Attribute_Definition: Total Population: Female: 75 to 79 years
+Attribute:
+Attribute_Label: DP0010056
+Attribute_Definition: Total Population: Female: 80 to 84 years
+Attribute:
+Attribute_Label: DP0010057
+Attribute_Definition: Total Population: Female: 85 years and over
+Attribute:
+Attribute_Label: DP0020001
+Attribute_Definition: Median Age: Both sexes
+Attribute:
+Attribute_Label: DP0020002
+Attribute_Definition: Median age: Male
+Attribute:
+Attribute_Label: DP0020003
+Attribute_Definition: Median age: Female
+Attribute:
+Attribute_Label: DP0030001
+Attribute_Definition: Population 16 years and over: Total
+Attribute:
+Attribute_Label: DP0030002
+Attribute_Definition: Population 16 years and over: Male
+Attribute:
+Attribute_Label: DP0030003
+Attribute_Definition: Population 16 years and over: Female
+Attribute:
+Attribute_Label: DP0040001
+Attribute_Definition: Population 18 years and over: Total
+Attribute:
+Attribute_Label: DP0040002
+Attribute_Definition: Population 18 years and over: Male
+Attribute:
+Attribute_Label: DP0040003
+Attribute_Definition: Population 18 years and over: Female
+Attribute:
+Attribute_Label: DP0050001
+Attribute_Definition: Population 21 years and over: Total
+Attribute:
+Attribute_Label: DP0050002
+Attribute_Definition: Population 21 years and over: Male
+Attribute:
+Attribute_Label: DP0050003
+Attribute_Definition: Population 21 years and over: Female
+Attribute:
+Attribute_Label: DP0060001
+Attribute_Definition: Population 62 years and over: Total
+Attribute:
+Attribute_Label: DP0060002
+Attribute_Definition: Population 62 years and over: Male
+Attribute:
+Attribute_Label: DP0060003
+Attribute_Definition: Population 62 years and over: Female
+Attribute:
+Attribute_Label: DP0070001
+Attribute_Definition: Population 65 years and over: Total
+Attribute:
+Attribute_Label: DP0070002
+Attribute_Definition: Population 65 years and over: Male
+Attribute:
+Attribute_Label: DP0070003
+Attribute_Definition: Population 65 years and over: Female
+Attribute:
+Attribute_Label: DP0080001
+Attribute_Definition: Total Population: Total
+Attribute:
+Attribute_Label: DP0080002
+Attribute_Definition: Population of one race: Total
+Attribute:
+Attribute_Label: DP0080003
+Attribute_Definition: Population of one race: White
+Attribute:
+Attribute_Label: DP0080004
+Attribute_Definition: Population of one race: Black or African American
+Attribute:
+Attribute_Label: DP0080005
+Attribute_Definition: Population of one race: American Indian and Alaska Native
+Attribute:
+Attribute_Label: DP0080006
+Attribute_Definition: Population of one race: Asian
+Attribute:
+Attribute_Label: DP0080007
+Attribute_Definition: Population of one race: Asian: Asian Indian
+Attribute:
+Attribute_Label: DP0080008
+Attribute_Definition: Population of one race: Asian: Chinese
+Attribute:
+Attribute_Label: DP0080009
+Attribute_Definition: Population of one race: Asian: Filipino
+Attribute:
+Attribute_Label: DP0080010
+Attribute_Definition: Population of one race: Asian: Japanese
+Attribute:
+Attribute_Label: DP0080011
+Attribute_Definition: Population of one race: Asian: Korean
+Attribute:
+Attribute_Label: DP0080012
+Attribute_Definition: Population of one race: Asian: Vietnamese
+Attribute:
+Attribute_Label: DP0080013
+Attribute_Definition: Population of one race: Asian: Other Asian
+Attribute:
+Attribute_Label: DP0080014
+Attribute_Definition:
+Population of one race: Native Hawaiian and Other Pacific Islander
+Attribute:
+Attribute_Label: DP0080015
+Attribute_Definition:
+Populatin of one race: Native Hawaiian and Other Pacific Islander: Native Hawaiian
+Attribute:
+Attribute_Label: DP0080016
+Attribute_Definition:
+Population of one race: Native Hawaiian and Other Pacific Islander: Guamanian or Chamorro
+Attribute:
+Attribute_Label: DP0080017
+Attribute_Definition:
+Population of one race: Native Hawaiian and Other Pacific Islander: Samoan
+Attribute:
+Attribute_Label: DP0080018
+Attribute_Definition:
+Population of one race: Native Hawaiian and Other Pacific Islander: Other Pacific Islander
+Attribute:
+Attribute_Label: DP0080019
+Attribute_Definition:
+Population of one race: Native Hawaiian and Other Pacific Islander: Some Other Race
+Attribute:
+Attribute_Label: DP0080020
+Attribute_Definition: Population of Two or More Races:
+Attribute:
+Attribute_Label: DP0080021
+Attribute_Definition:
+Population of Two or More Races: White; American Indian and Alaska Native
+Attribute:
+Attribute_Label: DP0080022
+Attribute_Definition: Population of Two or More Races: White; Asian
+Attribute:
+Attribute_Label: DP0080023
+Attribute_Definition:
+Population of Two or More Races: White; Black or African American
+Attribute:
+Attribute_Label: DP0080024
+Attribute_Definition: Population of Two or More Races: White; Some Other Race
+Attribute:
+Attribute_Label: DP0090001
+Attribute_Definition:
+Total races tallied: White alone or in combination with one or more other races
+Attribute:
+Attribute_Label: DP0090002
+Attribute_Definition:
+Total races tallied: Black or African American alone or in combination with one or more other races
+Attribute:
+Attribute_Label: DP0090003
+Attribute_Definition:
+Total races tallied: American Indian and Alaska Native alone or in combination with one or more other races
+Attribute:
+Attribute_Label: DP0090004
+Attribute_Definition:
+Total races tallied: Asian alone or in combination with one or more other races
+Attribute:
+Attribute_Label: DP0090005
+Attribute_Definition:
+Total races tallied: Native Hawaiian and Other Pacific Islander alone or in combination with one or more other races
+Attribute:
+Attribute_Label: DP0090006
+Attribute_Definition:
+Total races tallied: Some Other Race alone or in combination with one or more other races
+Attribute:
+Attribute_Label: DP0100001
+Attribute_Definition: Total population: Total
+Attribute:
+Attribute_Label: DP0100002
+Attribute_Definition: Total Population: Hispanic or Latino (of any race):
+Attribute:
+Attribute_Label: DP0100003
+Attribute_Definition: Total population: Hispanic or Latino (of any race): Mexican
+Attribute:
+Attribute_Label: DP0100004
+Attribute_Definition:
+Total population: Hispanic or Latino (of any race): Puerto Rican
+Attribute:
+Attribute_Label: DP0100005
+Attribute_Definition: Total population: Hispanic or Latino (of any race): Cuban
+Attribute:
+Attribute_Label: DP0100006
+Attribute_Definition:
+Total Population: Hispanic or Latino (of any race): Other Hispanic or Latino
+Attribute:
+Attribute_Label: DP0100007
+Attribute_Definition: Total population: Not Hispanic or Latino
+Attribute:
+Attribute_Label: DP0110001
+Attribute_Definition: Total population: Total
+Attribute:
+Attribute_Label: DP0110002
+Attribute_Definition: Total population: Hispanic or Latino
+Attribute:
+Attribute_Label: DP0110003
+Attribute_Definition: Total population: Hispanic or Latino: White alone
+Attribute:
+Attribute_Label: DP0110004
+Attribute_Definition:
+Total population: Hispanic or Latino: Black or African American alone
+Attribute:
+Attribute_Label: DP0110005
+Attribute_Definition:
+Total population: Hispanic or Latino: American Indian and Alaska Native alone
+Attribute:
+Attribute_Label: DP0110006
+Attribute_Definition: Total population: Hispanic or Latino: Asian alone
+Attribute:
+Attribute_Label: DP0110007
+Attribute_Definition:
+Total population: Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+Attribute:
+Attribute_Label: DP0110008
+Attribute_Definition: Total population: Hispanic or Latino: Some Other Race alone
+Attribute:
+Attribute_Label: DP0110009
+Attribute_Definition: Total population: Hispanic or Latino: Two or More Races
+Attribute:
+Attribute_Label: DP0110010
+Attribute_Definition: Total population: Not Hispanic or Latino
+Attribute:
+Attribute_Label: DP0110011
+Attribute_Definition: Total population: Not Hispanic or Latino: White Alone
+Attribute:
+Attribute_Label: DP0110012
+Attribute_Definition:
+Total population: Not Hispanic or Latino: Black or African American Alone
+Attribute:
+Attribute_Label: DP0110013
+Attribute_Definition:
+Total population: Not Hispanic or Latino: American Indian and Alaska Native alone
+Attribute:
+Attribute_Label: DP0110014
+Attribute_Definition: Total population: Not Hispanic or Latino: Asian alone
+Attribute:
+Attribute_Label: DP0110015
+Attribute_Definition:
+Total population: Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander Alone
+Attribute:
+Attribute_Label: DP0110016
+Attribute_Definition: Total population: Not Hispanic or Latino: Some Other Race Alone
+Attribute:
+Attribute_Label: DP0110017
+Attribute_Definition: Total population: Not Hispanic or Latino: Two or More Races
+Attribute:
+Attribute_Label: DP0120001
+Attribute_Definition: Total population: Total
+Attribute:
+Attribute_Label: DP0120002
+Attribute_Definition: Total population: In Households
+Attribute:
+Attribute_Label: DP0120003
+Attribute_Definition: Total population: In Households: Householder
+Attribute:
+Attribute_Label: DP0120004
+Attribute_Definition: Total population: In Households: Spouse
+Attribute:
+Attribute_Label: DP0120005
+Attribute_Definition: Total population: In Households: Child
+Attribute:
+Attribute_Label: DP0120006
+Attribute_Definition:
+Total population: In Households: Child: Own child under 18 years
+Attribute:
+Attribute_Label: DP0120007
+Attribute_Definition: Total population: In Households: Other relatives
+Attribute:
+Attribute_Label: DP0120008
+Attribute_Definition:
+Total population: In Households: Other relatives: Under 18 years
+Attribute:
+Attribute_Label: DP0120009
+Attribute_Definition:
+Total population: In Households: Other relatives: 65 years and over
+Attribute:
+Attribute_Label: DP0120010
+Attribute_Definition: Total population: In Households: Nonrelatives
+Attribute:
+Attribute_Label: DP0120011
+Attribute_Definition: Total population: In Households: Nonrelatives: Under 18 years
+Attribute:
+Attribute_Label: DP0120012
+Attribute_Definition:
+Total population: In Households: Nonrelatives: 65 years and over
+Attribute:
+Attribute_Label: DP0120013
+Attribute_Definition:
+Total population: In Households: Nonrelatives: Unmarried partner
+Attribute:
+Attribute_Label: DP0120014
+Attribute_Definition: Total population: In Households: In Group Quarters
+Attribute:
+Attribute_Label: DP0120015
+Attribute_Definition:
+Total population: In Households: In Group Quarters: Institutionalized population
+Attribute:
+Attribute_Label: DP0120016
+Attribute_Definition:
+Total population: In Households: In Group Quarters: Institutionalized population: Male
+Attribute:
+Attribute_Label: DP0120017
+Attribute_Definition:
+Total population: In Households: In Group Quarters: Institutionalized population: Female
+Attribute:
+Attribute_Label: DP0120018
+Attribute_Definition:
+Total population: In Households: In Group Quarters: Noninstitutionalized population
+Attribute:
+Attribute_Label: DP0120019
+Attribute_Definition:
+Total population: In Households: In Group Quarters: Noninstitutionalized population: Male
+Attribute:
+Attribute_Label: DP0120020
+Attribute_Definition:
+Total population: In Households: In Group Quarters: Noninstitutionalized population: Female
+Attribute:
+Attribute_Label: DP0130001
+Attribute_Definition: Households: Total
+Attribute:
+Attribute_Label: DP0130002
+Attribute_Definition: Households: Total: Family households (families)
+Attribute:
+Attribute_Label: DP0130003
+Attribute_Definition:
+Households: Total: Family households (families): With own children under 18 years
+Attribute:
+Attribute_Label: DP0130004
+Attribute_Definition: Households: Total: Husband-wife family
+Attribute:
+Attribute_Label: DP0130005
+Attribute_Definition:
+Households: Total: Husband-wife family: With own children under 18 years
+Attribute:
+Attribute_Label: DP0130006
+Attribute_Definition: Households: Total: Male householder, no wife present
+Attribute:
+Attribute_Label: DP0130007
+Attribute_Definition:
+Households: Total: Male householder, no wife present: With own children under 18 years
+Attribute:
+Attribute_Label: DP0130008
+Attribute_Definition: Households: Total: Female householder, no husband present
+Attribute:
+Attribute_Label: DP0130009
+Attribute_Definition:
+Households: Total: Female householder, no husband present: With own children under 18 years
+Attribute:
+Attribute_Label: DP0130010
+Attribute_Definition: Households: Total: Nonfamily households
+Attribute:
+Attribute_Label: DP0130011
+Attribute_Definition:
+Households: Total: Nonfamily households: Householder living alone
+Attribute:
+Attribute_Label: DP0130012
+Attribute_Definition:
+Households: Total: Nonfamily households: Householder living alone: Male
+Attribute:
+Attribute_Label: DP0130013
+Attribute_Definition:
+Households: Total: Nonfamily households: Householder living alone: Male: 65 years and over
+Attribute:
+Attribute_Label: DP0130014
+Attribute_Definition:
+Households: Total: Nonfamily households: Householder living alone: Female
+Attribute:
+Attribute_Label: DP0130015
+Attribute_Definition:
+Households: Total: Nonfamily households: Householder living alone: Female: 65 years and over
+Attribute:
+Attribute_Label: DP0140001
+Attribute_Definition: Households with individuals under 18 years: Total
+Attribute:
+Attribute_Label: DP0150001
+Attribute_Definition: Households with individuals 65 years and over
+Attribute:
+Attribute_Label: DP0160001
+Attribute_Definition: Average household size
+Attribute:
+Attribute_Label: DP0170001
+Attribute_Definition: Average family size
+Attribute:
+Attribute_Label: DP0180001
+Attribute_Definition: Total housing units: Total
+Attribute:
+Attribute_Label: DP0180002
+Attribute_Definition: Total housing units: Occupied housing units
+Attribute:
+Attribute_Label: DP0180003
+Attribute_Definition: Total housing units: Total: Vacant housing units
+Attribute:
+Attribute_Label: DP0180004
+Attribute_Definition: Total housing units: Total: Vacant housing units: For rent
+Attribute:
+Attribute_Label: DP0180005
+Attribute_Definition:
+Total housing units: Total: Vacant housing units: Rented, not occupied
+Attribute:
+Attribute_Label: DP0180006
+Attribute_Definition: Total housing units: Total: Vacant housing units: For sale only
+Attribute:
+Attribute_Label: DP0180007
+Attribute_Definition:
+Total housing units: Total: Vacant housing units: Sold, not occupied
+Attribute:
+Attribute_Label: DP0180008
+Attribute_Definition:
+Total housing units: Total: Vacant housing units: For seasonal, recreational, or occasional use
+Attribute:
+Attribute_Label: DP0180009
+Attribute_Definition:
+Total housing units: Total: Vacant housing units: All other vacants
+Attribute:
+Attribute_Label: DP0190001
+Attribute_Definition: Homeowner vacancy rate (percent}
+Attribute:
+Attribute_Label: DP0200001
+Attribute_Definition: Rental vacancy rate (percent)
+Attribute:
+Attribute_Label: DP0210001
+Attribute_Definition: Housing Tenure: Occupied housing units: Total
+Attribute:
+Attribute_Label: DP0210002
+Attribute_Definition:
+Housing Tenure: Occupied housing units: Total: Owner-occupied housing units
+Attribute:
+Attribute_Label: DP0210003
+Attribute_Definition:
+Housing Tenure: Occupied housing units: Total: Renter-occupied housing units
+Attribute:
+Attribute_Label: DP0220001
+Attribute_Definition:
+Population in occupied housing units by tenure: Owner-occupied housing units
+Attribute:
+Attribute_Label: DP0220002
+Attribute_Definition:
+Population in occupied housing units by tenure: Renter-occupied housing units
+Attribute:
+Attribute_Label: DP0230001
+Attribute_Definition:
+Average household size of occupied housing unites by tenure: Owner occupied
+Attribute:
+Attribute_Label: DP0230002
+Attribute_Definition:
+Average household size of occupied housing units by tenure: Renter occupied
