@@ -1,7 +1,7 @@
 // To get average NDVI for census tracts
 
 
-// Census tract polygons
+// Census tract polygons, from Earth Engine Data Catalog
 var table = ee.FeatureCollection("TIGER/2010/Tracts_DP1");
 // Landsat imagery
 var LS8 = ee.ImageCollection("LANDSAT/LC8_L1T_TOA")
