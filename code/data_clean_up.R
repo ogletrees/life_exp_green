@@ -53,3 +53,7 @@ df %>% filter(e.0.> 90 & e.0.< 100) %>% ggplot(aes(ndvi_mean, e.0.)) + geom_poin
 
 hist(df$ndvi_mean)
 hist(df$e.0.)
+
+# place with highest life at birth
+df %>% filter(e.0. == max(e.0.)) # Montgomery County, Maryland 'As one of the most affluent counties in the United States'
+df %>% filter(e.0. == min(e.0.)) # Webster County, West Virginia
